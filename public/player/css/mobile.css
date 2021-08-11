@@ -1,0 +1,47 @@
+body {
+    margin: 15px !important;
+}
+
+#tic-tac-toe {
+    display: block;
+    float: none;
+    width: 100%;
+    padding: 25px !important;
+}
+
+#player, #opponent {
+    float: left;
+    padding-top: 25px !important;
+    padding-left: 0px !important;
+    width: 50%;
+    display: block;
+}
+
+#player h1, #opponent h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#player img, #opponent img {
+    width: 50px;
+    margin: 20px auto !important;
+}
+
+#tic-tac-toe header h1 {
+    font-size: 40px;
+}
+
+#game-board li {
+    margin: 0px 5% !important;
+    width: 23.33%;
+    font-size: 30px;
+    height: 70px;
+    margin-top: 25px !important;
+}
+
+footer #new-game {
+    font-size: 20px;
+    margin-top: 25px !important;
+    padding: 8px !important;
+    width: 85%;
+}

@@ -1,0 +1,101 @@
+* {
+    border-width: 0px;
+    font-family: 'Kiwi Maru', serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #424242;
+    margin: 70px !important;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.primary-text {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#player, #mr-coder {
+    text-align: center;
+    display: block;
+    float: right;
+    width: 25%;
+    padding-top: 50px !important;
+    padding-left: 50px !important;
+    color: #878787;
+}
+
+#player h1, #mr-coder h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#player img, #mr-coder img {
+    display: block;
+    margin: 50px auto !important;
+    background-color: #424242; 
+    width: 100px;
+}
+
+#tic-tac-toe {
+    float: left;
+    width: 50%;
+    overflow: auto;
+    margin: auto !important;
+    background: #878787;
+    padding: 50px !important;
+    border-radius: 20px;
+}
+
+#tic-tac-toe header h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #424242;
+}
+
+#game-board {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+#game-board li {
+    float: left;
+    margin: 0px 6.66% !important;
+    margin-top: 40px !important;
+    padding: 12px 0px !important;
+    height: 80px;
+    width: 20%;
+    font-size: 40px;
+    background: #424242;
+    color: #dbdbdb;
+    list-style: none;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#game-board li:hover, #new-game:hover {
+    cursor: pointer;
+    background: #2b2b2b;
+}
+
+footer {
+    display: block;
+    text-align: center;
+}
+
+footer #new-game {
+    border: 0;
+    background: #424242;
+    color: #dbdbdb;
+    width: 60%;
+    margin-top: 40px !important;
+    padding: 15px !important;
+    border-radius: 20px;
+    font-size: 30px;
+}
