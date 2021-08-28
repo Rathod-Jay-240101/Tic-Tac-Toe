@@ -6,19 +6,22 @@
 
 #
 ## Home
-![1](https://user-images.githubusercontent.com/59601482/129082012-ab4c73b1-479d-4317-9028-c60460fe43d7.jpg)
+![1](https://user-images.githubusercontent.com/59601482/131219964-94ffc819-fa3c-438a-a4fd-4feaf196252a.jpg)
 
 #
 ## Computer
 ### Playing Against Computer Name Mr Coder
-![2](https://user-images.githubusercontent.com/59601482/129082015-0c78d73b-0966-4778-81bd-57646e4d20e0.jpg)
-![3](https://user-images.githubusercontent.com/59601482/129082016-d2063367-b338-4f03-a35c-f31af9194784.jpg)
-![4](https://user-images.githubusercontent.com/59601482/129082017-90f5a575-1b6b-4bf2-94a1-c434a63bbac0.jpg)
+![2](https://user-images.githubusercontent.com/59601482/131219966-e38eee8f-9662-4ad5-ab68-76e49eca66ac.jpg)
+![3](https://user-images.githubusercontent.com/59601482/131219968-d4eaa737-bde4-4da5-ac79-b1e8688d892a.jpg)
+![4](https://user-images.githubusercontent.com/59601482/131219969-860194c7-5a1d-486d-b696-b7a02ba781b2.jpg)
+![5](https://user-images.githubusercontent.com/59601482/131219970-6f1f3db6-0e8e-4aab-9244-67939ad215c1.jpg)
+![6](https://user-images.githubusercontent.com/59601482/131219971-c8b4f30f-9773-4ec6-a827-92c79a56395f.jpg)
 
 #
 ## Player
 ### Playing Against Any Player Across Globe Currenly Visiting Website
-![5](https://user-images.githubusercontent.com/59601482/129082001-7e557793-f207-41f8-ade5-79d6fc9812d8.jpg)
-![6](https://user-images.githubusercontent.com/59601482/129082008-8c01fc87-6adf-43b6-9ee8-12e141e93549.jpg)
-![7](https://user-images.githubusercontent.com/59601482/129082009-0d6c8023-0b56-45a7-a5e2-230e1dae7001.jpg)
-![8](https://user-images.githubusercontent.com/59601482/129082011-057f2ea2-5abc-46de-8a1f-ce08b58b109d.jpg)
+![7](https://user-images.githubusercontent.com/59601482/131219973-2c27795e-a4cc-4d42-8219-5a3e32765c5b.jpg)
+![8](https://user-images.githubusercontent.com/59601482/131219974-8e195b93-c32a-4f6d-9871-fad49211ef84.jpg)
+![9](https://user-images.githubusercontent.com/59601482/131219975-9c8ec275-84be-4ac3-bcf0-27d83bc0c467.jpg)
+![10](https://user-images.githubusercontent.com/59601482/131219976-63983efa-de98-4951-89df-3a4005945786.jpg)
+![11](https://user-images.githubusercontent.com/59601482/131219977-465152da-0760-40ae-862a-a4da378bcf6a.jpg)
