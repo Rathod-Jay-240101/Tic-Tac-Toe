@@ -64,7 +64,7 @@ io.on("connection", (socket) => {
 // To Call Self API
 const callingSelfAPI = async () => {
     try {
-        await got("https://coder-tic-tac-toe.glitch.me/");
+        await got("https://mr-coder-tic-tac-toe.glitch.me/");
         console.log("Called Self API");
     } catch (error) {
         console.log(error);
